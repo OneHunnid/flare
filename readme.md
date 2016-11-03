@@ -113,7 +113,7 @@ This document serves as a reference to help craft a design system for websites.
 
 ### Responsive UI
 
-### UI Elements
+# UI Elements
 
 ### Navigation
 #### Header
