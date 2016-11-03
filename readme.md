@@ -56,117 +56,115 @@ This document serves as a reference to help craft a design system for websites.
 - Success
 - Info
 
----
-
 # Design
 
-## Typography
-### Typefaces
-### Headings
-### Paragraph Lead
-### Paragraph Body
-### Pull Quotes
-### Code Formatting
-### Hyperlinks
+### Typography
+#### Typefaces
+#### Headings
+#### Paragraph Lead
+#### Paragraph Body
+#### Pull Quotes
+#### Code Formatting
+#### Hyperlinks
 
 
-## Colors
-### Primary
-### Secondary
-### Tertiary
-### Combinations/Patterns
-### Gradients
+### Colors
+#### Primary
+#### Secondary
+#### Tertiary
+#### Combinations/Patterns
+#### Gradients
 
-## Photography
+### Photography
 
-## Icons
+### Icons
 
-## Shadows
+### Shadows
 
 # Writing Content
 
-## Writing Goals and Principles
+### Writing Goals and Principles
 
-## Voice and Tone
+### Voice and Tone
 
-## Grammar and Mechanics
+### Grammar and Mechanics
 
-## Content Types
+### Content Types
 
-## Web Elements
+### Web Elements
 
-## Writing Blog Posts
+### Writing Blog Posts
 
-## Writing Email Newsletters
+### Writing Email Newsletters
 
-## Writing Legal Content
+### Writing Legal Content
 
-## Writing for Social Media
+### Writing for Social Media
 
-## Creating Structured Content
+### Creating Structured Content
 
-## Word List
+### Word List
 
 # Layout
 
-## Units and measurements
+### Units and measurements
 
-## Grid and Structure
+### Grid and Structure
 
-## Responsive UI
+### Responsive UI
 
-## UI Elements
+### UI Elements
 
-## Navigation
-### Header
-### Tabs
-### Pagination
+### Navigation
+#### Header
+#### Tabs
+#### Pagination
 
-## Buttons
+### Buttons
 
-## Cards
+### Cards
 
-## Lists
-### Unordered
-### Ordered
+### Lists
+#### Unordered
+#### Ordered
 
-## Forms
-### Input
-### Text Area
-### Radio Input
-### Checkbox Input
-### Date Picker
-### Number Picker
-### Time Input
-### File Input
-### Select Field
-### Password Input
-### Switch
-### Disabled State
-### Warning State
-### Success State
-### Error State
-### Empty State
+### Forms
+#### Input
+#### Text Area
+#### Radio Input
+#### Checkbox Input
+#### Date Picker
+#### Number Picker
+#### Time Input
+#### File Input
+#### Select Field
+#### Password Input
+#### Switch
+#### Disabled State
+#### Warning State
+#### Success State
+#### Error State
+#### Empty State
 
-## Modals
-### Generic
+### Modals
+#### Generic
 
-## Dialog
-### Notifications
+### Dialog
+#### Notifications
 
-## Tooltip
+### Tooltip
 
-## Stats/Data
+### Stats/Data
 
-## Pre-loader
+### Pre-loader
 
-## Search
+### Search
 
-## Social Media
+### Social Media
 
 # Motion
-## Duration and Easing
-## Movement
+### Duration and Easing
+### Movement
 
 ---
 ###### This document is based off of the following resources:
