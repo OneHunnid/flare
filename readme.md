@@ -1,9 +1,15 @@
 # Flare Design
 
-This document serves as a reference to help craft a design system for websites.
+This document serves as a reference to help craft a design language system.
 
-
-## Table of Contents
+**TABLE OF CONTENTS**
+```
+- What is a Design Language System?
+- Style Guide
+- Pattern Library
+- Examples
+- Resources
+```
 
 ### Design
 - Typography
